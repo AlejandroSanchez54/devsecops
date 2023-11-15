@@ -1,4 +1,4 @@
-Taller 1 de seguridad cambios
+Taller 1 de seguridad cambios para la rama dev
 # Practical DevOps - The Lab
 I've created this DevOps lab to explain the following terms through separate blogposts
 
